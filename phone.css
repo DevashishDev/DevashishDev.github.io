@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   font-family: 'Poppins' ;
+}
+
+.firstSection{
+   width: 1500px;
+}
+
+.secondSection{
+   width: 1300px;
+   margin-left: 96px ;
+}
+
+#skills{
+   width: 1500px;
+}
+
+footer{
+   width: 1500px;
+   height: 200px;
+}
