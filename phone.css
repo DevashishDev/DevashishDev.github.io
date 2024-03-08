@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   font-family: 'Poppins' ;
+}
+
+.firstSection{
+   width: 1500px;
+}
+
+.right-nav{
+   display: none;
+}
+
+.secondSection{
+   width: 1300px;
+   margin-left: 96px ;
+}
+
+#skills{
+   width: 1500px;
+}
+
+footer{
+   width: 1500px;
+   height: 100px;
+}
+
+#services {
+   display: flex;
+   flex-direction: column;
+   width: 1299px;
+}
+
+.h-secondary{
+   font-size: 1.4rem;
+}
+
+#services .box{
+padding: 14px;
+margin: 2px 58px;
+margin-bottom: 40px;
+}
+
+.box{
+   margin-right: 10px;
+}
+
+.flexpro{
+   display: flex;
+   flex-direction: row ;
+}
+
+#services .box img {
+height: 100px;
+}
+
+.rules {
+   font-size: 20px;
+}
+
+hr{
+   width: 1248px;
+}
+
+.secondSection .box {
+    width: 1248px;
+}
