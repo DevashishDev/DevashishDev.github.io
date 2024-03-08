@@ -105,7 +105,7 @@ nav>.leftnav {
 .firstSection {
     display: flex;
     background-color: var(--opt1b);
-    background-image: url("Images/dark/portfoliodarkbg.jpg");
+    background-image: url("Images/portfoliodarkbg.jpg");
     justify-content: space-around;
     align-items: center;
     margin-bottom: 80px;
