@@ -11,10 +11,10 @@ let FImage = document.getElementById()
  function swapImg(){
   
      if(document.getElementById("profile-pic").src.endsWith("Images/bg.png") == true){
-      document.getElementById("profile-pic").src = "Images/Profile/pp3.png" ;
+      document.getElementById("profile-pic").src = "pp3.png" ;
      }
 
-     else if(document.getElementById("profile-pic").src.endsWith("Images/Profile/pp3.png") == true){
+     else if(document.getElementById("profile-pic").src.endsWith("pp3.png") == true){
       document.getElementById("profile-pic").src = "Images/bg.png" ;
      }
  }
